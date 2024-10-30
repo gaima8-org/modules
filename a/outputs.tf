@@ -1,3 +1,3 @@
 output "version" {
-  value = "v2"
+  value = "feature/bob"
 }
